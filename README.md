@@ -69,7 +69,7 @@ where `a` is the minimum support and `b` is the maximum support. The parameters 
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform-entropy@v0.1.0-deno/mod.js';
 ```
 
 #### entropy( a, b )
@@ -135,7 +135,7 @@ v = entropy( -1, -2 );
 
 ```javascript
 import randint from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform-entropy@v0.1.0-deno/mod.js';
 
 var randa = randint.factory( 0, 10 );
 var randb = randint.factory();
