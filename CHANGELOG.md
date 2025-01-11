@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-11)
+
+<section class="features">
+
+### Features
+
+-   [`622e347`](https://github.com/stdlib-js/stdlib/commit/622e3479c4bd745e26b6ac72d0b512dc8e4595af) - add C implementation for `stats/base/dists/discrete-uniform/entropy` [(#4636)](https://github.com/stdlib-js/stdlib/pull/4636)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3550](https://github.com/stdlib-js/stdlib/issues/3550)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`622e347`](https://github.com/stdlib-js/stdlib/commit/622e3479c4bd745e26b6ac72d0b512dc8e4595af) - **feat:** add C implementation for `stats/base/dists/discrete-uniform/entropy` [(#4636)](https://github.com/stdlib-js/stdlib/pull/4636) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.1">
 
 ## 0.2.1 (2024-07-27)
