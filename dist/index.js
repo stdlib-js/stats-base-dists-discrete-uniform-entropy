@@ -1,30 +1,5 @@
+"use strict";var s=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(u){throw (r=0, u)}};};var n=s(function(q,i){
+var t=require('@stdlib/math-base-assert-is-integer/dist'),o=require('@stdlib/math-base-special-ln/dist');function a(e,r){return!t(e)||!t(r)||e>r?NaN:o(r-e+1)}i.exports=a
+});var c=n();module.exports=c;
 /** @license Apache-2.0 */
-
-'use strict';
-
-/**
-* Discrete uniform distribution entropy.
-*
-* @module @stdlib/stats-base-dists-discrete-uniform-entropy
-*
-* @example
-* var entropy = require( '@stdlib/stats-base-dists-discrete-uniform-entropy' );
-*
-* var v = entropy( 0, 1 );
-* // returns ~0.693
-*
-* v = entropy( 4, 12 );
-* // returns ~2.197
-*
-* v = entropy( 2, 8 );
-* // returns ~1.946
-*/
-
-// MODULES //
-
-var main = require( './main.js' );
-
-
-// EXPORTS //
-
-module.exports = main;
+//# sourceMappingURL=index.js.map
